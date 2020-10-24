@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/npm/v/@itwithlyam/massive/:tag)
+![npm (tag)](https://img.shields.io/npm/v/@itwithlyam/massive)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/@itwithlyam/massive)
 
 # Massive
