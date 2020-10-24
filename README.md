@@ -1,2 +1,2 @@
 # massive
-My NPM package.
+Removes all spaces from a string.
